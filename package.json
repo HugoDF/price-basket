@@ -1,0 +1,17 @@
+{
+  "name": "aimusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "proxyquire": "^1.7.11",
+    "sinon": "^1.17.7"
+  }
+}
